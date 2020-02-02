@@ -13,5 +13,6 @@
         "psr-4": {
             "Zhufq\\Laraenv\\": "src/"
         }
-    }
+    },
+    "license": "MIT"
 }
