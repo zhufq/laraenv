@@ -14,5 +14,12 @@
             "Zhufq\\Laraenv\\": "src/"
         }
     },
-    "license": "MIT"
+    "license": "MIT",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Zhufq\\Laraenv\\EnvServiceProvider"
+            ]
+        }
+    }
 }
