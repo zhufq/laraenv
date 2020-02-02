@@ -1,0 +1,17 @@
+{
+    "name": "zhufq/laraenv",
+    "description": "这是一个en编辑类库\u001b[D\u001b[D\u001b[\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C类库",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zhufq",
+            "email": "530497500@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zhufq\\Laraenv\\": "src/"
+        }
+    }
+}
